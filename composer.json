@@ -9,5 +9,8 @@
             "Tutor\\Helpers\\":"helpers/",
             "Tutor\\Tests\\": "tests/"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
     }
 }
